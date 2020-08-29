@@ -38,4 +38,4 @@ HUGO_ENABLEGITINFO = "true"
 [[menu.main]]
 name = "About me"
 weight = 1
-url = "https://amazing-tereshkova-042a43.netlify.app/introduction/"
+url = "/introduction/"
