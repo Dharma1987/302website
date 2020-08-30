@@ -10,11 +10,11 @@ I can define what the content is and roles of two types of content strategist.
 
 I can compare and describe content management systems.
 ------------------------------------------------------
-I can compare and describe the role of front-end strategist and back-end stategist.
+I can compare and describe the role of *front-end strategist and back-end stategist.*
 
 I can manage content using established workflows.
 -------------------------------------------------
-Since, I'm learnig to manage content. I can do the tasks that we have done so far for this class.
+Since, I'm learnig to manage content. **I can do the tasks that we have done so far for this class.**
 
 I can identify and employ technologies related to content management.
 ---------------------------------------------------------------------
