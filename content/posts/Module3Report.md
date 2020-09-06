@@ -21,7 +21,7 @@ I can manage content using established workflows.
 ------------------------------------------------------------------------------
 
 This week we learn **how to create group channel and Kanban along with
-wikihow**, but know some of it and I'm learning to master it so that
+wikihow**, but I know some of it and I'm learning to master it so that
 I can manage content as needed by using established workflows.
 I'm really excited  and looking forward to it.
 
