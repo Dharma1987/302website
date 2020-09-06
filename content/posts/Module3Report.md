@@ -23,6 +23,6 @@ Since I'm learning new skills that are necessary to content management including
 difeerent technologies. *I'm learning required technologies and enjoying the process 
 of content management system*.
 I can find and use resources for self-directed learning.
---------------------------------------------------------
+-----------------------------------------------------------
 So far I'm really enjoying this class because I can follow the instruction 
 provided by the professor and if I got stuck on something I know where I can get help.
