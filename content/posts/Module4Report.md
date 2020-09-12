@@ -25,7 +25,6 @@ So far, I think I'm doing good with the required technologies related to content
 For example, I'm getting familiar with different technologies such as Hugo,netlify,GitHub,teams
 etc.
 
-
 I can find and use resources for self-directed learning.
 ------------------------------------------------------------------------------------
 I can find the required resources for self-directed learning if I need. For instance, 
