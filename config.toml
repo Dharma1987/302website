@@ -45,3 +45,14 @@ name = "Annotated definitions"
 weight = 2
 url = "/annotateddefinitions/"
 
+[[menu.main]]
+name = "Resource Guides"
+weight = 3
+url = "/resourceguides/"
+
+[[menu.main]]
+name = "Walkthrough"
+weight = 4
+url = "/walkthrough/"
+
+
