@@ -43,15 +43,15 @@ url = "/introduction/"
 [params]
 [[menu.main]]
 name = "About dummy annotated definitions"
-weight = 1
+weight = 2
 url = "/annotateddefinitions/"
 
 [[menu.main]]
 name = "About dummy resource guides"
-weight = 1
+weight = 3
 url = "/resourceguides/"
 
 [[menu.main]]
 name = "About walkthrough assessment"
-weight = 1
+weight = 4
 url = "/walkthrough/"
