@@ -13,3 +13,7 @@ site planner, editor, sub-editor, developer, administrator
 
 Rules for completing the group assignment.
 ------------------------------------------
+First draft by friday.
+Second draft by saturday.
+If anyone has problem completing we all try to help him.
+finish everything by sunday.
