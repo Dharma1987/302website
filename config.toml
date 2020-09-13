@@ -43,7 +43,7 @@ url = "/introduction/"
 [[menu.main]]
 name = "Blogpost Assessment"
 weight = 1
-url = "/blogpostassessment/"
+url = "/blogassessment/"
 
 [[menu.main]]
 name = "Annotated definitions"
