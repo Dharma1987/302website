@@ -64,6 +64,7 @@ url = "/walkthrough/"
 name = "github"
 url = "https://github.com/vaga"
 
+[[params.social]]
 name ="twitter"
-url = "https://twitter.com/"
+url = "https://twitter.com/vaga"
 
