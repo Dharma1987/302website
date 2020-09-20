@@ -1,6 +1,6 @@
 baseURL = "https://elastic-thompson-b58784.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My First Hugo Site"
 theme = "hugo-theme-m10c-master"
 
 [build]
