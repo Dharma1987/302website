@@ -69,5 +69,10 @@ name ="twitter"
 url = "https://twitter.com/vaga"
 
 
+[params]
+[[menu.main]]
+name = "Dharma Wosti"
+weight = 1
+url = "/introduction/"
 
 
