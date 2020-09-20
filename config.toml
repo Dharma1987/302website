@@ -68,6 +68,7 @@ url = "https://github.com/vaga"
 name ="twitter"
 url = "https://twitter.com/vaga"
 
-
+[params]
+profilepic = "img/Me.png"
 
 
