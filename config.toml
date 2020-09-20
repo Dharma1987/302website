@@ -60,4 +60,7 @@ name = "Walkthrough"
 weight = 1
 url = "/walkthrough/"
 
+[[params.social]]
+name = "github"
+url = "https://github.com/vaga"
 
