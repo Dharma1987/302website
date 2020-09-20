@@ -11,6 +11,9 @@ From this week's reading, **I learned how presentation and content
 is different in content management system.** In additio, I learned
 how I can use different hugo themes in my hugo sites as I want. I 
 even learned how small change in CSS file can create in presentation.
+This week I learned how I can change the theme color and how I can change
+the title of my hugo site. Lastly, I learned how to add social media
+links in my hugo site page.
 
 I can describe and compare content management systems.
 ------------------------------------------------------
