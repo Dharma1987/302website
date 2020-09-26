@@ -16,7 +16,7 @@ for my group, I did write the content for our blog post.*
 I can describe and compare content management systems.
 ------------------------------------------------------
 
-Since, we are going to do actual assignment that is blogpost 
+Since, we are going to do actual assignment that is a blogpost 
 in group. I learned how exactly different people work to create
 and publish the content by using workflows. I mean this week I got
 real experiance about using the WordPress site to complete our task.
