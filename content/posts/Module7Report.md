@@ -4,7 +4,7 @@ date: 2020-10-02T00:00:00-04:00
 draft: false
 ---
 
-I can identify and define key concepts in (web) content manage.
+I can identify and define key concepts in (web) content managment.
 -----------------------------------------------------------------
 
 
