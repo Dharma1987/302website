@@ -41,3 +41,4 @@ I can find and use resources for self-directed learning.
 Since I am leaning these new things and I'm enjoying it. I know where to
 get help if I need any.**I can find resources such as friend's help and 
 professor's help whenever I needed.** Moreover, I can find resources online as well.
+
