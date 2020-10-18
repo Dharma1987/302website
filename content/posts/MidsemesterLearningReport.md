@@ -22,7 +22,7 @@ I can identify and employ technologies related to content management.
 Since we are learning Hugo and WordPress sites as our content management systems, I easily navigate these two CMSs and create post, edit post, change themes depending upon our need. To some extent I know how we can add image and video files in a post in order to make posts more effective and understanding. I got to know about HTML and CSS codes that we can use in different CMSs.
 
 
-I can find and use resources for self-directed learninge
+I can find and use resources for self-directed learning.
 --------------------------------------------------------
 After taking this class, I learned more about the overall concepts about the content management systems and I can navigate the content management systems such as Hugo and WordPress and performs different tasks like creating post and editing it. Moreover, publishing it. I learned how to use images and videos in a post depending upon the need. I have learned about these CMSs using different websites that I got from the class. Moreover, I use resources such as class reading, help from friends and professor whenever needed.
 
