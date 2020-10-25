@@ -8,14 +8,15 @@ I can identify and define key concepts in (web) content managment.
 -----------------------------------------------------------------
 From this week's reading, **I learned about the content modeling and how we can differentiate 
 content type, content attributes and datatype about the content attributes.Moreover, I learned 
-that datatypes are really useful in content management system.** *Without using proper datatype we can 
-complete certain tasks effectively and efficiently.*
+that datatypes are really useful in content management system.** *Without using proper datatype we can
+not complete certain tasks effectively and efficiently.* Some datatype includes text, numbers etc.
 
 I can describe and compare content management systems.
 ------------------------------------------------------
 At this point in the semester, *I learned about conetent management systems like Hugo and WordPress about
 how we can publish content and how we can change the themes and use the media file such as image, videos
-etc.* **I learned how we can add hyperlinks in the post.**
+etc.* **I learned how we can add hyperlinks in the post.**  I got to know that how one CMSs can be better
+other for some specific tasks. For example, WordPress is better for blogging than Hugo.
 
 
 I can manage content using established workflows.
@@ -24,7 +25,6 @@ Since I am working as a editor in the group, I know how established workflows wo
 tasks.**In order to complete the workflows everyone in  workflow must be careful completing thier tasks in time.**
 In a workflow, editors write the main content, developers write the code for the content and administrator
 write the overall report about the project.
-
 
 
 I can identify and employ technologies related to content management.
