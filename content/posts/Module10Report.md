@@ -38,3 +38,4 @@ I can find and use resources for self-directed learning.
 Whenever I feel confuse, I know where to find the help and resources. *I try to find information in the class readings, 
 I even use google and youtube to find information about my need about the content management systems.*  **Moreover, I seek
 helps from friends and professor whenever needed.**
+
