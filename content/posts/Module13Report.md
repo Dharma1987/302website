@@ -32,7 +32,9 @@ I can identify and employ technologies related to content management.
 Since we are using Hugo and WordPress content management systems, **I can use these two CMSs
 to create post, add image, links and changes the themes.** Moreover, I can add plugins and extensions 
 the way I want from avalable options.*In addition, I learned how content creator can add advertisements 
-by using plugins like AdSanity, AdRotate etc. in order to make money.*
+by using plugins like AdSanity, AdRotate etc. in order to make money.* Further, I learned how we can set 
+up file permissions to increase the security of WordPress websites. We can manage who can read, write and 
+execute the files that way we want.
 
 I can find and use resources for self-directed learning.
 --------------------------------------------------------
