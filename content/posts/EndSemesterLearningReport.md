@@ -6,7 +6,7 @@ draft: false
 
 I can identify and define key concepts in (web) content managment.
 -----------------------------------------------------------------
-
+This semester I learned a lot about the different concepts of content management systems.
 
 
 
